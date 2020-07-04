@@ -1,0 +1,5 @@
+OUT_FILE = 'OUT_FILE'
+IN_FILE = 'IN_FILE'
+ID = 0
+
+MAIN_FILE = "Main"
